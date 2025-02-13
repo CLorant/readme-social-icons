@@ -9,8 +9,6 @@ https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/example_
 
 There are duplicate images in some folders, just to ensure that there aren't any "not found" errors.
 
-Feel free to contribute any other images / image sizes.
-
 ## Previews
 
 ### small light
